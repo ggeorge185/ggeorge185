@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=header&text=Welcome%20to%20my%20Profile!&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+
 <div align="center">
 
 # 🌟 Hello, I'm George! 🌟
@@ -63,6 +65,8 @@
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
 
 ## 🎨 Featured Projects
 
@@ -195,6 +199,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggeorge185&theme=radical&background=0d1117&stroke=B19CD9&ring=B19CD9&fire=B19CD9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=c9d1d9" width="100%">
 
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=ggeorge185&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9&icon_color=B19CD9&border_color=B19CD9" width="100%">
+
 </div>
 
 ---
@@ -209,8 +216,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ggeorge185)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggeorge185)
-[![Portfolio](https://img.shields.io/badge/Portfolio-B19CD9?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B19CD9?style=for-the-badge&logo=About.me&logoColor=white)](https://ggeorge185.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ggeorge185.dev)
 
 </div>
 
