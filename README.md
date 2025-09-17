@@ -4,8 +4,9 @@
 
 # 🌟 Hello, I'm Gabriel Joseph George! 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Innovation+Enthusiast" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Innovation+Enthusiast" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=ggeorge185&label=Profile%20views&color=B19CD9&style=flat" alt="Profile views" />
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
@@ -244,23 +245,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
 
-### 🌟 "Code with passion, innovate with purpose, and always add a touch of lavender!" 🌟
-
-<img src="https://komarev.com/ghpvc/?username=ggeorge185&label=Profile%20views&color=B19CD9&style=flat" alt="Profile views" />
+### 🌟 "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code" 🌟
 
 </div>
 
-<!-- Animated elements and additional styling -->
-<style>
-@keyframes fadeIn {
-    from { opacity: 0; transform: translateY(30px); }
-    to { opacity: 1; transform: translateY(0); }
-}
 
-@keyframes pulse {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-}
 
 .fade-in {
     animation: fadeIn 1s ease-out;
