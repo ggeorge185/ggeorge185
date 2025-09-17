@@ -12,27 +12,29 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
 
-<div align="center">
-
-##  About Me
+## 👨‍💻 About Me
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-</div>
 I am a curious and driven researcher-in-training with a background in AI development, software engineering, and human-centered technologies. My academic and industry experience has given me a unique perspective on the challenges and opportunities around building ethical, inclusive, and transparent AI systems. I am particularly interested in the socio-technical and governance dimensions of machine learning systems, especially as they relate to open-source LLMs, responsible design, and equitable user experience.  
+
+<br clear="right"/>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
 
-###  Primary Focus  
+## 🎯 Primary Focus
+</div>
 
- **AI Engineering** – with a love for creating innovative solutions  
- **LLM & RAG Specialization** – making AI more accessible and practical  
- **Creative Problem Solving** – turning complex challenges into elegant solutions  
- (I also love to make songs 😉) 
-
+- **AI Engineering** – with a love for creating innovative solutions  
+- **LLM & RAG Specialization** – making AI more accessible and practical  
+- **Creative Problem Solving** – turning complex challenges into elegant solutions  
+- **(I also love to make songs 😉)**
 
 <br clear="right"/>
 <div align="center">
