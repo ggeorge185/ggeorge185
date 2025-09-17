@@ -35,10 +35,10 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
 ## Primary Focus
 </div>
 
-- **AI Engineering** – with a love for creating innovative solutions  
-- **LLM & RAG Specialization** – making AI more accessible and practical  
-- **Creative Problem Solving** – turning complex challenges into elegant solutions  
-- **Music & Creativity** – blending code with rhythm, composing songs and instrumentals 🎵
+ **AI Engineering** – with a love for creating innovative solutions  
+ **LLM & RAG Specialization** – making AI more accessible and practical  
+ **Creative Problem Solving** – turning complex challenges into elegant solutions  
+ **Music - I love to sing and play instruments (I love to make songs as well 😉)
 
 
 <br clear="right"/>
