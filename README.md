@@ -147,9 +147,9 @@ I am a curious and driven researcher-in-training with a background in AI develop
 ---
 
 <div align="center">
-
+### "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
 
-### "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code"
+
 
 </div>
