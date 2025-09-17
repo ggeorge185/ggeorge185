@@ -21,7 +21,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I am a curious and driven researcher-in-training with a background in AI development, software engineering, and human-centered technologies. My academic and industry experience has given me a unique perspective on the challenges and opportunities around building ethical, inclusive, and transparent AI systems. I am particularly interested in the socio-technical and governance dimensions of machine learning systems, especially as they relate to open-source LLMs, responsible design, and equitable user experience.  
+I am a curious and driven researcher-in-training with a strong background in AI development, software engineering, and human-centered technologies. Over the years, I have cultivated both academic and industry experience that allows me to approach challenges from a holistic perspective, bridging the gap between theoretical innovation and practical application.
+
+My work has not only deepened my technical expertise in building and deploying intelligent systems but has also made me acutely aware of the ethical, social, and governance dimensions surrounding AI. I believe that the future of technology must be transparent, inclusive, and equitable, and I am deeply committed to contributing to that vision.
 
 <br clear="right"/>
 
