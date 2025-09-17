@@ -22,12 +22,16 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 </div>
-I am a curious and driven researcher-in-training with a background in AI development, software engineering, and human-centered technologies. My academic and industry experience has given me a unique perspective on the challenges and opportunities around building ethical, inclusive, and transparent AI systems. I am particularly interested in the socio-technical and governance dimensions of machine learning systems, especially as they relate to open-source LLMs, responsible design, and equitable user experience.
-**Primary Focus:**  
-**AI Engineering** with a love for creating innovative solutions <br>  
-**LLM & RAG Specialization** - Making AI more accessible and practical <br>  
-**Creative Problem Solving** - Turning complex challenges into elegant solutions <br>  
-**(I also love to make songs 😉)**
+I am a curious and driven researcher-in-training with a background in AI development, software engineering, and human-centered technologies. My academic and industry experience has given me a unique perspective on the challenges and opportunities around building ethical, inclusive, and transparent AI systems. I am particularly interested in the socio-technical and governance dimensions of machine learning systems, especially as they relate to open-source LLMs, responsible design, and equitable user experience.  
+
+---
+
+###  Primary Focus  
+
+- **AI Engineering** – with a love for creating innovative solutions  
+- **LLM & RAG Specialization** – making AI more accessible and practical  
+- **Creative Problem Solving** – turning complex challenges into elegant solutions  
+- **(I also love to make songs 😉)**  
 
 
 <br clear="right"/>
