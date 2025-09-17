@@ -34,7 +34,7 @@ I am a curious and driven researcher-in-training with a background in AI develop
 
 
 <br clear="right"/>
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
 
