@@ -125,8 +125,6 @@ Reduced testing time by 70% through comprehensive automation framework.
 
 ## GitHub Analytics
 
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
-
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggeorge185&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9&icon_color=B19CD9&border_color=B19CD9"/>
