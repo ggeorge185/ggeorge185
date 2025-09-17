@@ -16,11 +16,12 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
 </div>
-<div align="right">
+<div align="left">
+ 
 ## About Me
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I am a curious and driven researcher-in-training with a strong background in AI development, software engineering, and human-centered technologies. Over the years, I have cultivated both academic and industry experience that allows me to approach challenges from a holistic perspective, bridging the gap between theoretical innovation and practical application.
 
