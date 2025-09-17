@@ -15,9 +15,7 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
-</div>
-<div align="center">
- 
+
 ## About Me
 </div>
 
@@ -30,6 +28,7 @@ My work has not only deepened my technical expertise in building and deploying i
 Looking ahead, I aspire to continue developing solutions that combine technical innovation with ethical foresight, while fostering collaboration between engineers, researchers, and end-users.
 
 <br clear="right"/>
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
