@@ -79,43 +79,11 @@ I am a curious and driven researcher-in-training with a background in AI develop
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-### Current & Recent Projects
-
-**[SpatialSense AI](projects/spatialsense-ai.md)** | *Emergency Response Revolution*  
-Revolutionary 911 call analysis using YAMNett sound classification for first responders.  
-*March - May 2025*
-
-**[LLMxRAG Legacy](projects/llmxrag-legacy.md)** | *AI-Powered Code Modernization*  
-Bridging legacy codebases and modern Python through intelligent RAG-powered analysis.  
-*July 2024 - Present*
-
-**[Ephora](projects/ephora.md)** | *Mental Health-Focused Social Media*  
-Ephemeral social platform prioritizing mental health and authentic connections.  
-*November 2024 - January 2025*
-
-### Academic Projects
-
-**[Meemaw's RecSys](projects/meemaws-recsys.md)** | *Ethical AI Recommendations*  
-Bias-reduced food recommendation system promoting responsible choices.  
-*Otto-von-Guericke University | May - June 2024*
-
-**[Babushka.ai](projects/babushka-ai.md)** | *Cultural AI Grandmother*  
-Warm, culturally-aware chatbot delivering recipes and comfort.  
-*Otto-von-Guericke University | March - May 2024*
-
-**[The AlgabhetBot](projects/algabhet-bot.md)** | *Multilingual Information Retrieval*  
-Breaking language barriers with advanced NLP and cross-language search.  
-*Otto-von-Guericke University | November 2023 - January 2024*
-
-### Industry Experience
-
-**[Automation Transition](projects/automation-transition.md)** | *Testing Revolution*  
-Reduced testing time by 70% through comprehensive automation framework.  
-*LG Soft India | May 2023*
-
 <div align="center">
 
-**[📋 View All Projects](projects/)** | **[🔗 Project Repository](https://github.com/ggeorge185)**
+**[📋 View All My Projects](projects/)**
+
+*Explore my portfolio of AI research, software development, and innovative solutions*
 
 </div>
 
@@ -150,12 +118,12 @@ Reduced testing time by 70% through comprehensive automation framework.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
-<div style="margin: 20px 0;">
+<div style="margin: 30px 0;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-j-george)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggeorge185)
-[![Portfolio](https://img.shields.io/badge/Portfolio-B19CD9?style=for-the-badge&logo=About.me&logoColor=white)](https://ggeorge185.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggabrieljosephgeorge@gmail.com)
+<a href="https://www.linkedin.com/in/gabriel-j-george"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
+<a href="https://github.com/ggeorge185"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/></a>
+<a href="https://ggeorge185.github.io"><img src="https://img.shields.io/badge/Portfolio-B19CD9?style=for-the-badge&logo=About.me&logoColor=white" height="40"/></a>
+<a href="mailto:ggabrieljosephgeorge@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
 
 </div>
 
@@ -172,6 +140,11 @@ Reduced testing time by 70% through comprehensive automation framework.
 **Cultural Bridge Builder** - From Indian spices to German precision  
 **Problem Solver** - If it can be coded, I'll find a way  
 **Lifelong Learner** - Always exploring the next big thing in tech  
+**Minimalism Enthusiast** - Clean code, clean spaces, clear mind  
+**Music Creator** - Love singing and creating instrumental music  
+**Digital Artist** - Crafting beautiful visuals through digital drawing  
+**Bookworm** - Always have a good book within reach  
+**Puzzle Master** - Sudoku and puzzles are my brain's playground  
 
 </div>
 
