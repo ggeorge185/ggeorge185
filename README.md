@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🌟 Hello, I'm Gabriel Joseph George! 🌟
+# Hello, I'm Gabriel Joseph George! 
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%20%26%20Machine%20Learning%20Researcher" alt="Typing SVG" />
