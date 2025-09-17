@@ -221,10 +221,10 @@ I am a curious and driven researcher-in-training with a background in AI develop
 
 <div style="margin: 20px 0;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ggeorge185)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-j-george)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggeorge185)
 [![Portfolio](https://img.shields.io/badge/Portfolio-B19CD9?style=for-the-badge&logo=About.me&logoColor=white)](https://ggeorge185.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ggeorge185.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggabrieljosephgeorge@gmail.com)
 
 </div>
 
