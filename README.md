@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=header&text=Composing%20Code%20%26%20Music&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
-
 <div align="center">
 
 # Hello, I'm Gabriel Joseph George! 
