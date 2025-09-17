@@ -15,7 +15,8 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
-
+</div>
+<div align="right">
 ## About Me
 </div>
 
