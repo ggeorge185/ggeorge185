@@ -79,110 +79,43 @@ I am a curious and driven researcher-in-training with a background in AI develop
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-</div>
+### 🚀 Current & Recent Projects
 
-<div style="background: linear-gradient(135deg, #E6E6FA 0%, #D8BFD8 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+**[SpatialSense AI](projects/spatialsense-ai.md)** | *Emergency Response Revolution*  
+Revolutionary 911 call analysis using YAMNett sound classification for first responders.  
+*March - May 2025*
 
-### 🚀 **SpatialSense AI** 
-*Formerly: Spacial Awareness App*
-> **Duration:** March - May 2025  
-> **🔍 What it does:** Revolutionary emergency response system that analyzes 911 calls using YAMNett sound classification to provide real-time environmental context and situational awareness to first responders.
+**[LLMxRAG Legacy](projects/llmxrag-legacy.md)** | *AI-Powered Code Modernization*  
+Bridging legacy codebases and modern Python through intelligent RAG-powered analysis.  
+*July 2024 - Present*
 
-**Key Features:**
-- Real-time audio analysis of emergency calls
-- Environmental sound detection and classification
-- Context-aware information delivery
-- Enhanced emergency response coordination
+**[Ephora](projects/ephora.md)** | *Mental Health-Focused Social Media*  
+Ephemeral social platform prioritizing mental health and authentic connections.  
+*November 2024 - January 2025*
 
-</div>
+### 🎓 Academic Projects
 
-<div style="background: linear-gradient(135deg, #F0E6FF 0%, #E6D3FF 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+**[Meemaw's RecSys](projects/meemaws-recsys.md)** | *Ethical AI Recommendations*  
+Bias-reduced food recommendation system promoting responsible choices.  
+*Otto-von-Guericke University | May - June 2024*
 
-### 🤖 **LLMxRAG Legacy** 
-> **Duration:** July 2024 - Present  
-> **💡 Mission:** Bridging the gap between legacy codebases and modern Python development through intelligent code analysis and RAG-powered modernization.
+**[Babushka.ai](projects/babushka-ai.md)** | *Cultural AI Grandmother*  
+Warm, culturally-aware chatbot delivering recipes and comfort.  
+*Otto-von-Guericke University | March - May 2024*
 
-**Revolutionary Features:**
-- Legacy code analysis and modernization
-- RAG-based intelligent suggestions
-- Automated Python code conversion
-- Technical debt reduction
+**[The AlgabhetBot](projects/algabhet-bot.md)** | *Multilingual Information Retrieval*  
+Breaking language barriers with advanced NLP and cross-language search.  
+*Otto-von-Guericke University | November 2023 - January 2024*
 
-</div>
+### 💼 Industry Experience
 
-<div style="background: linear-gradient(135deg, #F5F0FF 0%, #EDE0FF 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+**[Automation Transition](projects/automation-transition.md)** | *Testing Revolution*  
+Reduced testing time by 70% through comprehensive automation framework.  
+*LG Soft India | May 2023*
 
-### ⏰ **Ephora** 
-> **Duration:** November 2024 - January 2025  
-> **🌟 Vision:** Pioneering the future of social media with ephemeral content that prioritizes mental health and authentic connections.
+<div align="center">
 
-**Innovative Approach:**
-- Time-based content lifecycle
-- Mental health-focused design
-- Authentic social interactions
-- Privacy-first architecture
-
-</div>
-
-<div style="background: linear-gradient(135deg, #FAF0FF 0%, #F0E6FF 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
-### 🍽️ **Meemaw's RecSys** 
-*Otto-von-Guericke University, Magdeburg*
-> **Duration:** May - June 2024  
-> **🎯 Purpose:** Ethical AI recommendation system that respects user preferences while promoting responsible food choices.
-
-**Ethical AI Features:**
-- Bias-reduced recommendations
-- Transparent decision making
-- User preference learning
-- Responsible recommendation algorithms
-
-</div>
-
-<div style="background: linear-gradient(135deg, #FFF0FA 0%, #FFE6F5 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
-### 👵 **Babushka.ai** 
-*Otto-von-Guericke University, Magdeburg*
-> **Duration:** March - May 2024  
-> **❤️ Heart:** AI grandmother chatbot delivering recipes and warmth through culturally-aware, human-centered interactions.
-
-**Heartwarming Technology:**
-- Fine-tuned LLM for grandmother personality
-- Cultural context understanding
-- Recipe recommendation system
-- Explainable AI interactions
-
-**Tech Stack:** Python, Hugging Face, Flask, HTML/CSS
-
-</div>
-
-<div style="background: linear-gradient(135deg, #F0F0FF 0%, #E6E6FF 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
-### 🔤 **The AlgabhetBot** 
-*Otto-von-Guericke University, Magdeburg*
-> **Duration:** November 2023 - January 2024  
-> **🌐 Global Reach:** Multilingual query-based retrieval system breaking language barriers.
-
-**Multilingual Capabilities:**
-- NLP-powered multilingual support
-- Fast and accurate search algorithms
-- Java backend with Python interface
-- Cross-language information retrieval
-
-</div>
-
-<div style="background: linear-gradient(135deg, #F0FFF0 0%, #E6FFE6 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
-### ⚡ **Automation Transition** 
-*LG Soft India*
-> **Duration:** May 2023  
-> **🎯 Impact:** Revolutionized testing processes by transitioning from manual to automated testing, reducing testing time by 70%.
-
-**Business Impact:**
-- Comprehensive automated test coverage
-- Significant time reduction in testing cycles
-- Streamlined development processes
-- Quality assurance improvement
+**[📋 View All Projects](projects/)** | **[🔗 Project Repository](https://github.com/ggeorge185)**
 
 </div>
 
