@@ -157,6 +157,22 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
+
+## ♟️ Chess Corner
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+**Chess Player** - Strategic thinking meets algorithmic reasoning  
+**Current ELO Rating: 1200** - Always looking for the next great match!  
+
+![Chess](https://img.shields.io/badge/Chess-ELO%201200-B19CD9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA4Yy0uNTQgMC0xLS40NC0xLTFzLjQ2LTEgMS0xIDEgLjQ0IDEgMS0uNDYgMS0xIDF6bS0yIDBoLTJjLS41NCAwLTEtLjQ0LTEtMXMuNDYtMSAxLTFoMmMuNTQgMCAxIC40NCAxIDFzLS40NiAxLTEgMXptLTQgMGgtMmMtLjU0IDAtMS0uNDQtMS0xcy40Ni0xIDEtMWgyYy41NCAwIDEgLjQ0IDEgMXMtLjQ2IDEtMSAxem0tNCAwSDdjLS41NCAwLTEtLjQ0LTEtMXMuNDYtMSAxLTFoMmMuNTQgMCAxIC40NCAxIDFzLS40NiAxLTEgMXptLTQgMEg0Yy0uNTQgMC0xLS40NC0xLTFzLjQ2LTEgMS0xaDFjLjU0IDAgMSAuNDQgMSAxcy0uNDYgMS0xIDF6bTAtMmgxNXYtM0g1djN6bTAtMWgxNXYtMUg1djF6bTE3IDZIMlYxOGMwIDEuMTAuODkgMiAyIDJoMTZjMS4xMSAwIDItLjkgMi0yVjEyeiIvPjwvc3ZnPg==&logoColor=white)
+
+*"In chess, as in programming, every move matters and every decision shapes the outcome."*
+
+</div>
+
+<div align="center">
 
   ### "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
