@@ -28,10 +28,10 @@ I am a curious and driven researcher-in-training with a background in AI develop
 
 ###  Primary Focus  
 
-- **AI Engineering** – with a love for creating innovative solutions  
-- **LLM & RAG Specialization** – making AI more accessible and practical  
-- **Creative Problem Solving** – turning complex challenges into elegant solutions  
-- (I also love to make songs 😉) 
+ **AI Engineering** – with a love for creating innovative solutions  
+ **LLM & RAG Specialization** – making AI more accessible and practical  
+ **Creative Problem Solving** – turning complex challenges into elegant solutions  
+ (I also love to make songs 😉) 
 
 
 <br clear="right"/>
