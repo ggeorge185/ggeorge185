@@ -75,11 +75,11 @@ I am a curious and driven researcher-in-training with a background in AI develop
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
 
-## 🎨 Featured Projects
+## Featured Projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-### 🚀 Current & Recent Projects
+### Current & Recent Projects
 
 **[SpatialSense AI](projects/spatialsense-ai.md)** | *Emergency Response Revolution*  
 Revolutionary 911 call analysis using YAMNett sound classification for first responders.  
@@ -93,7 +93,7 @@ Bridging legacy codebases and modern Python through intelligent RAG-powered anal
 Ephemeral social platform prioritizing mental health and authentic connections.  
 *November 2024 - January 2025*
 
-### 🎓 Academic Projects
+### Academic Projects
 
 **[Meemaw's RecSys](projects/meemaws-recsys.md)** | *Ethical AI Recommendations*  
 Bias-reduced food recommendation system promoting responsible choices.  
@@ -107,7 +107,7 @@ Warm, culturally-aware chatbot delivering recipes and comfort.
 Breaking language barriers with advanced NLP and cross-language search.  
 *Otto-von-Guericke University | November 2023 - January 2024*
 
-### 💼 Industry Experience
+### Industry Experience
 
 **[Automation Transition](projects/automation-transition.md)** | *Testing Revolution*  
 Reduced testing time by 70% through comprehensive automation framework.  
@@ -123,7 +123,7 @@ Reduced testing time by 70% through comprehensive automation framework.
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
 
@@ -139,7 +139,7 @@ Reduced testing time by 70% through comprehensive automation framework.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggeorge185&theme=radical&background=0d1117&stroke=B19CD9&ring=B19CD9&fire=B19CD9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=c9d1d9" width="100%">
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=ggeorge185&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9&icon_color=B19CD9&border_color=B19CD9" width="100%">
 
 </div>
@@ -148,7 +148,7 @@ Reduced testing time by 70% through comprehensive automation framework.
 
 <div align="center">
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
 
@@ -167,7 +167,7 @@ Reduced testing time by 70% through comprehensive automation framework.
 
 <div align="center">
 
-## 💫 Fun Facts
+## Fun Facts
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
@@ -185,17 +185,6 @@ Reduced testing time by 70% through comprehensive automation framework.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
 
-### 🌟 "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code" 🌟
+### "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code"
 
 </div>
-
-
-
-.fade-in {
-    animation: fadeIn 1s ease-out;
-}
-
-.pulse {
-    animation: pulse 2s infinite;
-}
-</style>
