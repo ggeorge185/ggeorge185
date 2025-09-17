@@ -20,11 +20,10 @@
 
 </div>
 
-🚀 **Passionate AI Engineer** with a love for creating innovative solutions  
-💜 **Lavender Enthusiast** - it's not just a color, it's a lifestyle!  
-🤖 **LLM & RAG Specialist** - Making AI more accessible and practical  
-🌍 **Global Collaborator** - Experience across India and Germany  
-🎨 **Creative Problem Solver** - Turning complex challenges into elegant solutions  
+**Passionate AI Engineer** with a love for creating innovative solutions  
+**LLM & RAG Specialist** - Making AI more accessible and practical  
+**Creative Problem Solver** - Turning complex challenges into elegant solutions  
+
 
 <br clear="right"/>
 
