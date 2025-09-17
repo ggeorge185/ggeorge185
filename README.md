@@ -22,7 +22,7 @@
 
 </div>
 I am a curious and driven researcher-in-training with a background in AI development, software engineering, and human-centered technologies. My academic and industry experience has given me a unique perspective on the challenges and opportunities around building ethical, inclusive, and transparent AI systems. I am particularly interested in the socio-technical and governance dimensions of machine learning systems, especially as they relate to open-source LLMs, responsible design, and equitable user experience.  
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
 
 ###  Primary Focus  
@@ -30,11 +30,11 @@ I am a curious and driven researcher-in-training with a background in AI develop
 - **AI Engineering** – with a love for creating innovative solutions  
 - **LLM & RAG Specialization** – making AI more accessible and practical  
 - **Creative Problem Solving** – turning complex challenges into elegant solutions  
-- **(I also love to make songs 😉)**  
+- (I also love to make songs 😉) 
 
 
 <br clear="right"/>
-<div align="left">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
 
@@ -109,9 +109,9 @@ I am a curious and driven researcher-in-training with a background in AI develop
 
 </div>
 
----
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
+
 
 ## Connect With Me
 
@@ -128,7 +128,8 @@ I am a curious and driven researcher-in-training with a background in AI develop
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
 
 <div align="center">
 
