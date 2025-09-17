@@ -134,17 +134,13 @@ I am a curious and driven researcher-in-training with a background in AI develop
 <div align="center">
 
 ## Fun Facts
-
-**Lavender Lover** - My code runs better with a lavender-scented workspace!  
-**AI Whisperer** - I speak fluent Python and Robot  
-**Cultural Bridge Builder** - From Indian spices to German precision  
+  
 **Problem Solver** - If it can be coded, I'll find a way  
-**Lifelong Learner** - Always exploring the next big thing in tech  
 **Minimalism Enthusiast** - Clean code, clean spaces, clear mind  
 **Music Creator** - Love singing and creating instrumental music  
 **Digital Artist** - Crafting beautiful visuals through digital drawing  
 **Bookworm** - Always have a good book within reach  
-**Puzzle Master** - Sudoku and puzzles are my brain's playground  
+**Puzzle Master** - Sudoku and puzzles are my playground  
 
 </div>
 
