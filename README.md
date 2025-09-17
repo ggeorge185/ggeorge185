@@ -23,6 +23,7 @@
 
 </div>
 I am a curious and driven researcher-in-training with a background in AI development, software engineering, and human-centered technologies. My academic and industry experience has given me a unique perspective on the challenges and opportunities around building ethical, inclusive, and transparent AI systems. I am particularly interested in the socio-technical and governance dimensions of machine learning systems, especially as they relate to open-source LLMs, responsible design, and equitable user experience.
+\\
 **Primary Focus:**
 **AI Engineering** with a love for creating innovative solutions  
 **LLM & RAG Specialization** - Making AI more accessible and practical  
