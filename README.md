@@ -169,7 +169,7 @@ Reduced testing time by 70% through comprehensive automation framework.
 
 ## Fun Facts
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 
 **Lavender Lover** - My code runs better with a lavender-scented workspace!  
 **AI Whisperer** - I speak fluent Python and Robot  
