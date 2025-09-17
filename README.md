@@ -22,9 +22,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I am a curious and driven researcher-in-training with a strong background in AI development, software engineering, and human-centered technologies. Over the years, I have cultivated both academic and industry experience that allows me to approach challenges from a holistic perspective, bridging the gap between theoretical innovation and practical application.
-
 My work has not only deepened my technical expertise in building and deploying intelligent systems but has also made me acutely aware of the ethical, social, and governance dimensions surrounding AI. I believe that the future of technology must be transparent, inclusive, and equitable, and I am deeply committed to contributing to that vision.
-
+Looking ahead, I aspire to continue developing solutions that combine technical innovation with ethical foresight, while fostering collaboration between engineers, researchers, and end-users.
 <br clear="right"/>
 
 <div align="center">
