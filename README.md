@@ -5,7 +5,8 @@
 # 🌟 Hello, I'm Gabriel Joseph George! 🌟
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+Machine+Learning+Engineer and Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%20%26%20Machine%20Learning%20Engineer%20and%20Researcher" alt="Typing SVG" />
+
 <img src="https://komarev.com/ghpvc/?username=ggeorge185&label=Profile%20views&color=B19CD9&style=flat" alt="Profile views" />
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
