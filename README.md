@@ -38,7 +38,7 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
  **AI Engineering** – with a love for creating innovative solutions  
  **LLM & RAG Specialization** – making AI more accessible and practical  
  **Creative Problem Solving** – turning complex challenges into elegant solutions  
- **Music - I love to sing and play instruments (I love to make songs as well 😉)
+ Music - I love to sing and play instruments (I love to make songs as well 😉)
 
 
 <br clear="right"/>
