@@ -107,6 +107,7 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggeorge185&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9&icon_color=B19CD9&border_color=B19CD9"/>
 
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggeorge185&layout=compact&langs_count=7&theme=radical&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9&border_color=B19CD9"/>
 
 </div>
@@ -114,7 +115,7 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ggeorge185&bg_color=0d1117&color=B19CD9&line=B19CD9&point=c9d1d9&area=true&hide_border=false&border_color=B19CD9" width="100%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggeorge185&theme=radical&background=0d1117&stroke=B19CD9&ring=B19CD9&fire=B19CD9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=c9d1d9" width="100%">
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ggeorge185&theme=radical&background=0d1117&stroke=B19CD9&ring=B19CD9&fire=B19CD9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=c9d1d9&exclude_days=Sun%2CSat&hide_border=true" width="100%">
 ### GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=ggeorge185&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9&icon_color=B19CD9&border_color=B19CD9" width="100%">
 
