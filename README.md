@@ -146,6 +146,7 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
 
 ## Fun Facts
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+  
 **Problem Solver** - If it can be coded, I'll find a way  
 **Minimalism Enthusiast** - Clean code, clean spaces, clear mind  
 **Music Creator** - Love singing and creating instrumental music  
