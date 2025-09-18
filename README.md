@@ -125,8 +125,6 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
 
 ## Connect With Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-
 <div style="margin: 30px 0;">
 
 <a href="https://www.linkedin.com/in/gabriel-j-george"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
