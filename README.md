@@ -6,7 +6,7 @@
 # Hello, I'm Gabriel Joseph George! 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%2F+ML+Research+Engineer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%2F+ML+Research+Engineer" alt="Typing SVG" />
 
 
 <img src="https://komarev.com/ghpvc/?username=ggeorge185&label=Profile%20views&color=B19CD9&style=flat" alt="Profile views" />
@@ -115,7 +115,7 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ggeorge185&bg_color=0d1117&color=B19CD9&line=B19CD9&point=c9d1d9&area=true&hide_border=false&border_color=B19CD9&sideLabels=B19CD9&dates=c9d1d9&exclude_days=Sun%2CSat" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggeorge185&theme=radical&background=0d1117&stroke=B19CD9&ring=B19CD9&fire=B19CD9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=c9d1d9&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ggeorge185&theme=radical&background=0d1117&stroke=B19CD9&ring=B19CD9&fire=B19CD9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=c9d1d9&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </div>
 
 
