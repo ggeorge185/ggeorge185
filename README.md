@@ -115,7 +115,7 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ggeorge185&bg_color=0d1117&color=B19CD9&line=B19CD9&point=c9d1d9&area=true&hide_border=false&border_color=B19CD9&sideLabels=B19CD9&dates=c9d1d9&exclude_days=Sun%2CSat" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ggeorge185&theme=radical&background=0d1117&stroke=B19CD9&ring=B19CD9&fire=B19CD9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=c9d1d9&exclude_days=Sun,Sat" 
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ggeorge185&theme=radical&background=0d1117&stroke=B19CD9&ring=B19CD9&fire=B19CD9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=c9d1d9&exclude_days=Fri,Sun,Sat" 
        alt="GitHub Streak" />
 </div>
 
