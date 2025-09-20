@@ -122,7 +122,7 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
 
 ### GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ggeorge185&theme=onedark&rank=-C&no-frame=true&margin-w=4&row=1&column=6&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ggeorge185&theme=onedark&no-frame=true&margin-w=4&row=1&column=6&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9" />
 </div>
 
 </div>
