@@ -120,16 +120,6 @@ Looking ahead, I aspire to continue developing solutions that combine technical 
 </div>
 
 
-### GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ggeorge185&theme=onedark&no-frame=true&margin-w=4&row=1&column=6&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9" />
-</div>
-
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B19CD9&height=4&section=header&text=%20&fontSize=16&fontColor=ffffff"/>
-
-</div>
 
 ## Connect With Me
 
